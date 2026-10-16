@@ -1,27 +1,49 @@
 # Portfólio acadêmico — Igor Durando
 
-Site inicial para apresentar minha trajetória acadêmica, interesses e projetos em Tecnologia da Informação.
+Portfólio desenvolvido para apresentar minha trajetória acadêmica, meus interesses e meus projetos na área de Tecnologia da Informação.
 
-## Arquivos
+## Acesse o portfólio
+
+Site publicado: https://igordrnd.github.io/study-hub-portfolio/
+
+## Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- Git e GitHub
+- GitHub Pages
+
+## Estrutura do projeto
+
 - `index.html`: estrutura e conteúdo do site.
-- `style.css`: aparência responsiva.
-- `projetos/`: documentação dos projetos apresentados.
+- `style.css`: estilos e layout responsivo.
+- `projetos/`: documentação dos projetos apresentados no portfólio.
+
+## Projetos apresentados
+
+- **NotifiCar:** projeto acadêmico voltado à comunicação de ocorrências e alertas relacionados a veículos.
+- **Study Hub:** projeto apresentado como parte do portfólio acadêmico.
+
+Para conhecer mais detalhes, consulte os arquivos README dentro da pasta `projetos/`.
 
 ## Visualizar localmente
-1. Abra esta pasta no Visual Studio Code.
-2. Abra `index.html` no navegador (ou use a extensão Live Server).
 
-## Publicar no GitHub Pages
-1. Envie os arquivos para um repositório público no GitHub.
-2. Abra **Settings → Pages**.
-3. Em **Build and deployment**, selecione **Deploy from a branch**.
-4. Escolha a branch `main` e a pasta `/ (root)`.
-5. Clique em **Save** e aguarde o endereço de publicação.
+1. Abra a pasta do projeto no Visual Studio Code.
+2. Abra o arquivo `index.html` no navegador.
+3. Opcionalmente, utilize a extensão Live Server para visualizar as alterações durante o desenvolvimento.
 
-## Antes de publicar
-- Troque os links genéricos de LinkedIn e GitHub no `index.html` pelos links reais.
-- Confira as descrições dos projetos e ajuste qualquer informação necessária.
-- Não publique senhas, tokens ou dados privados.
+## Publicação no GitHub Pages
+
+O site está publicado pelo GitHub Pages a partir da branch `master`, utilizando a pasta raiz (`/`).
+
+Para consultar ou alterar a configuração, acesse **Settings → Pages** no repositório.
 
 ## Versionamento
-Registre a versão inicial com a tag `v1.0`. Depois, faça uma alteração real, crie outro commit e envie a atualização ao GitHub.
+
+O projeto utiliza Git para registrar as alterações e GitHub para armazenar e compartilhar o código.
+
+As versões são registradas por meio de commits com mensagens que descrevem as mudanças realizadas.
+
+## Segurança
+
+Não inclua senhas, tokens, credenciais ou outras informações privadas no repositório público.
