@@ -96,4 +96,4 @@ O Gemini pode ser utilizado como apoio para planejamento, organização da docum
 
 ## Registro da implantação
 
-As alterações, os testes e as dificuldades identificadas durante a Etapa 03 serão documentados ao longo da implantação, para compor o relatório final.
+As alterações, os testes e as dificuldades identificadas durante a Etapa 03 serão documentados ao longo da implantação, para compor o relatório final.da
